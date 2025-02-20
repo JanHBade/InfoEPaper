@@ -10,6 +10,8 @@ else
 fi
 ```
 
+weiter unten more allias aktivieren, ll und so
+
 ```
 dircolors -p > ~/.dircolors
 ```
