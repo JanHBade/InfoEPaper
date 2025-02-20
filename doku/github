@@ -2,6 +2,8 @@
 
 github Keys aus Google Drive Ordner/Keys auf den Pi kopieren
 
+chmod 0600 auf die Dateien
+
 ## ~/.ssh/config
 
 ```
